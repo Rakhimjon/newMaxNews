@@ -1,0 +1,1 @@
+# newMaxNews simple news project
